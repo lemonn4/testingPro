@@ -1,0 +1,20 @@
+ID,Email,Họ tên,Mật khẩu,Địa chỉ,Thông báo
+QLTK_01_01,clienttest103@gmail.com,Client,Abcd1234,HN,NULL
+QLTK_01_02,,Client,Abcd1234,HN,Email không được để trống
+QLTK_01_03,client test@gmail.com,Client,Abcd1234,HN,Email không hợp lệ
+QLTK_01_04,clienttestgmail.com,Client,Abcd1234,HN,Email không hợp lệ
+QLTK_01_05,clienttest@gmailcom,Client,Abcd1234,HN,Email không hợp lệ
+QLTK_01_06,clienttest@gmail.,Client,Abcd1234,HN,Email không hợp lệ
+QLTK_01_07,##clienttest@gmail.com,Client,Abcd1234,HN,Email không hợp lệ
+QLTK_01_08,clienttest@gmail.com,Client,Abcd1234,HN,Email đã đăng kí.
+QLTK_01_09,TCLIENTTEST103@GMAIL.COM,Client,Abcd1234,HN,Email đã đăng kí.
+QLTK_01_10,clienttest3@gmail.com,,Abcd1234,HN,Tên đăng nhập không được để trống
+QLTK_01_11,clienttest4@gmail.com,        ,Abcd1234,HN,Tên đăng nhập không được để trống
+QLTK_01_12,clienttest78@gmail.com, Kiểm Thử ,Abcd1234,HN,NULL
+QLTK_01_13,clienttest6@gmail.com,Client@#$,Abcd1234,HN,Tên đăng nhập không hợp lệ
+QLTK_01_14,clienttest7@gmail.com,Client123,Abcd1234,HN,Tên đăng nhập không hợp lệ
+QLTK_01_15,clienttest8@gmail.com,Client,,HN,Mật khẩu không được để trống
+QLTK_01_16,clienttest02@gmail.com,Client,1234567,HN,Mật khẩu tối thiểu 8 ký tự
+QLTK_01_17,clienttest03@gmail.com,Client,1234567812345678,HN,NULL
+QLTK_01_18,clienttest04@gmail.com,Client,123456781234567890,HN,Mật khẩu tối đa 16 ký tự
+QLTK_01_19,clienttest05@gmail.com,Client,Abcd1234,,NULL

@@ -1,0 +1,20 @@
+ID,Họ tên,Số điên thoại,Email,Địa chỉ,Ghi chú,Thông báo
+DH_01_01,Client,987654321,clienttest@gmail.com,HN,test,Cám ơn bạn. Đơn hàng của bạn đã được tiếp nhận.
+DH_01_02,,9987654321,clienttest@gmail.com,HN,test,Tên khách hàng không được để trống
+DH_01_03,        ,9987654321,clienttest@gmail.com,HN,test,Tên khách hàng không được để trống
+DH_01_04,ngoc anh,9987654321,clienttest@gmail.com,HN,test,Cám ơn bạn. Đơn hàng của bạn đã được tiếp nhận.
+DH_01_05,Client@#$,9987654321,clienttest@gmail.com,HN,test,Cám ơn bạn. Đơn hàng của bạn đã được tiếp nhận.
+DH_01_06,Client123,9987654321,clienttest@gmail.com,HN,test,Cám ơn bạn. Đơn hàng của bạn đã được tiếp nhận.
+DH_01_07,Client,,clienttest@gmail.com,HN,test,Số điện thoại không được để trống
+DH_01_08,Client,0987 654321,clienttest@gmail.com,HN,test,Số điện thoại không hợp lệ
+DH_01_09,Client,098765Abcd,clienttest@gmail.com,HN,test,Số điện thoại không hợp lệ
+DH_01_10,Client,098765@#$%,clienttest@gmail.com,HN,test,Số điện thoại không hợp lệ
+DH_01_11,Client,00000000000,clienttest@gmail.com,HN,test,Số điện thoại không hợp lệ
+DH_01_12,Client,98765432,clienttest@gmail.com,HN,test,Số điện thoại không hợp lệ
+DH_01_13,Client,12345678999,clienttest@gmail.com,HN,test,Số điện thoại không hợp lệ
+DH_01_14,Client,9876543210, ,HN,test,Cám ơn bạn. Đơn hàng của bạn đã được tiếp nhận.
+DH_01_15,Client,9876543210,clienttestgmail.com,HN,test,Email không hợp lệ
+DH_01_16,Client,9876543210,clienttest@gmail.,HN,test,Email không hợp lệ
+DH_01_17,Client,987654321,clienttest#@gmail.com,HN,test,Email không hợp lệ
+DH_01_18,Client,987654321,clienttest@gmail.com,,test,Địa chỉ giao hàng không được để trống
+DH_01_19,Client,987654321,clienttest@gmail.com,HN,,Cám ơn bạn. Đơn hàng của bạn đã được tiếp nhận.
